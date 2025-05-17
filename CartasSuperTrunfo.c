@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Nivel Novato
  int main(){
 
   //desafio Super Trunfo - Países
